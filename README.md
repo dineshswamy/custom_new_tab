@@ -7,4 +7,4 @@ Some days , i used to deviate from your work. I wont have anything to remind me 
 tab , which says "STAY FOCUSED" . Komparify.com is the company i work for . 
 
 
-![alt tag](https://raw.github.com/dineshswamy/custom_new_tab/master/custom.png)
+![alt tag](https://raw.github.com/dineshswamy/custom_new_tab/master/custom_tab.png)
