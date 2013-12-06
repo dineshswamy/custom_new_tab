@@ -7,7 +7,7 @@
  "background" : {
  	"scripts" :["script.js"]
  	},
-
+  "permissions": [ "geolocation", "history", "idle", "management", "storage", "tabs", "topSites", "chrome://favicon/", "http://*/", "https://*/" ],
    "chrome_url_overrides" : {
    "newtab":"focus.html"
    }
